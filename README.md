@@ -41,6 +41,12 @@
 
 Для автоматизации мы выбрали проект Wikipedia. В качестве домашнего задания мы предложим написать несколько тестов для этого приложения.
 
+## Необходимый софт
+
+- Appium Desktop https://github.com/appium/appium-desktop/tags
+- Maven https://maven.apache.org/install.html
+- Android Studio https://developer.android.com/studio
+
 ## Содержимое репозитория:
 
 - pom-xml - основной конфиг Maven
